@@ -14,31 +14,6 @@ This project demonstrates object detection using OpenCV. It includes:
 
 ---
 
-## 📂 Recommended project structure
-```
-object-detection-opencv/
-│── README.md
-│── .gitignore
-│── requirements.txt
-│── LICENSE
-│── main.ipynb                # Your Jupyter notebook
-│── detect_image.py           # Optional helper script to run detection on an image
-│── detect_video.py           # Optional helper script to run detection on a video or webcam
-│── assets/
-│    ├── images/              # put sample images here (small sample images)
-│    └── videos/              # put sample videos here (small sample videos)
-│── models/                   # downloaded / custom models (see notes)
-│    ├── haarcascade_*.xml
-│    ├── yolov3.cfg
-│    ├── yolov3.weights
-│    └── yolov3.names
-│── results/                  # outputs (ignored by git)
-```
-
-> **Note:** Large model weights and datasets should not be committed directly to Git — use Git LFS or host them externally (Google Drive, Dropbox, or a model hub).
-
----
-
 ## 🔧 System requirements
 - Python 3.8+ (3.10 recommended)
 - pip
