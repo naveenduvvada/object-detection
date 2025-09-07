@@ -1,0 +1,39 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual envs
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook metadata and outputs (optional - if you prefer to clear outputs before commit)
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Sensitive / environment files
+.env
+*.env
+
+# Results and large files
+results/
+assets/videos/*.mp4
+assets/videos/*.avi
+models/*.weights
+models/*.pb
+models/*.onnx
+models/*.h5
+
+# Editors
+.vscode/
+.idea/
+
+# If using Jupyter Lab checkpoints
+.jupyter/
