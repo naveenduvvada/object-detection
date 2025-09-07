@@ -172,13 +172,8 @@ Contributions are welcome. Typical workflow:
 
 ---
 
-## 📝 License
-Add a license file (e.g., MIT). If you want, I can create a MIT `LICENSE` file for you.
-
----
-
 ## 🙋‍♂️ Contact / Author
-Your Name — your.email@example.com
+Duvvada Naveen Kumar — duvvadanaveen6@gmail.com
 
 ---
 
